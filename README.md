@@ -10,4 +10,7 @@ It is minimalistic to be a good tutorial so you see how it most basically works.
 * right-click onto your channel
 * select "copy channel ID"
 * you get a string like 131807197778 into the clipboard
-* add this ID to the script's last line
+* go to https://discord.com/developers/applications/<channel id>/bot, e.g. https://discord.com/developers/applications/131807197778/bot
+* click on "reset token"
+* remember the token
+* add this token to the script's last line
