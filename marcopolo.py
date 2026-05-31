@@ -34,4 +34,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 # Run the bot
-bot.run("replace with your channel ID, for me, this has 73 characters")
+bot.run("<replace with your Token, for me, this has 73 characters>")
